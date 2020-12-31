@@ -1,0 +1,32 @@
+{ "name": "dict-to-env-pairs-pmb",
+  "version": "0.1.0",
+  "description": "Convert a dictionary object to an array of key=value pairs.",
+  "keywords": [],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/dict-to-env-pairs-pmb-js/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/dict-to-env-pairs-pmb-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/dict-to-env-pairs-pmb-js/issues"
+  },
+  "contributors": [],
+
+  "private": false, "license": "ISC",
+
+  "main": "pairs.mjs",
+  "scripts": { "test": "nodemjs test/all.mjs" },
+  "directories": { "test": "test" },
+
+  "dependencies": {},
+  "devDependencies": {
+    "nodemjs": "^0.1.8",
+    "p-fatal": "^0.1.3",
+    "p-tape": "^4.0.1"
+  },
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
